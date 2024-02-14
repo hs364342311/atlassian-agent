@@ -30,7 +30,7 @@ abstract public class LicenseProperty {
         setLicenseID("LIDSEN-" + licenseId);
         setCreationDate(date);
         setLicenseType(LicenseType.COMMERCIAL);
-        setDescription("Unlimited license by https://zhile.io");
+        setDescription("license by huangshun");
         setEvaluation(false);
 
         setContactName(ContactName);
