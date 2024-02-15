@@ -76,4 +76,10 @@ public class UsageTest {
         }
 
     }
+
+    @Test
+    public void testSign(){
+        String str ="asdfsdjfs88jdf=Xwww8833";
+        System.out.println(str.substring(str.lastIndexOf(88)));
+    }
 }
